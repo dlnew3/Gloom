@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-04-16T03:19:51.213-07:00
-  initializedAtString: 2020-04-16T03:19:51.213-07:00
+  lastUpdatedAtString: 2020-05-02T12:56:58.906-07:00
+  initializedAtString: 2020-05-02T12:56:58.906-07:00
   currentGitRemote:
     name: origin
-    url: https://github.com/S-Yemane/Gloom.git
+    url: https://github.com/dlnew3/Gloom.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: Shane
+    tracking: origin/Shane
   currentConfigBranch:
-    name: master
+    name: Shane
     remote:
       name: origin
-      url: https://github.com/S-Yemane/Gloom.git
-    trackingBranch: master
+      url: https://github.com/dlnew3/Gloom.git
+    trackingBranch: Shane
   currentConfigRemote:
     name: origin
-    url: https://github.com/S-Yemane/Gloom.git
+    url: https://github.com/dlnew3/Gloom.git
   currentHead: 
