@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-02T18:14:37.536-07:00
+  lastUpdatedAtString: 2020-05-02T19:55:36.152-07:00
   initializedAtString: 2020-05-02T12:57:01.118-07:00
   entries:
   - path: .DS_Store
@@ -22,69 +22,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Fonts.meta
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Fonts.meta
-    projectPath: Assets/Fonts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Fonts/Anton.ttf
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Fonts/Anton.ttf
-    projectPath: Assets/Fonts/Anton.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Fonts/Anton.ttf.meta
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Fonts/Anton.ttf.meta
-    projectPath: Assets/Fonts/Anton.ttf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Fonts/Wanted M54.ttf
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Fonts/Wanted
-      M54.ttf
-    projectPath: Assets/Fonts/Wanted M54.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Fonts/Wanted M54.ttf.meta
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Fonts/Wanted
-      M54.ttf.meta
-    projectPath: Assets/Fonts/Wanted M54.ttf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Resources/Main Menu/gloomtext.png
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Resources/Main
-      Menu/gloomtext.png
-    projectPath: Assets/Resources/Main Menu/gloomtext.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Resources/Main Menu/gloomtext.png.meta
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Resources/Main
-      Menu/gloomtext.png.meta
-    projectPath: Assets/Resources/Main Menu/gloomtext.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Resources/Main Menu/gloomtitle.png
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Resources/Main
-      Menu/gloomtitle.png
-    projectPath: Assets/Resources/Main Menu/gloomtitle.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Resources/Main Menu/gloomtitle.png.meta
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Resources/Main
-      Menu/gloomtitle.png.meta
-    projectPath: Assets/Resources/Main Menu/gloomtitle.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Scenes/GameOverScreen.unity
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Scenes/GameOverScreen.unity
-    projectPath: Assets/Scenes/GameOverScreen.unity
+  - path: Assembly-CSharp-firstpass.csproj
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assembly-CSharp-firstpass.csproj
+    projectPath: Assembly-CSharp-firstpass.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -100,207 +40,116 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Scripts/Menus/PauseScreen.cs
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Scripts/Menus/PauseScreen.cs
-    projectPath: Assets/Scripts/Menus/PauseScreen.cs
+  - path: Assets/Scripts/Menus/GameOverScreen.cs
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Scripts/Menus/GameOverScreen.cs
+    projectPath: Assets/Scripts/Menus/GameOverScreen.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Example-Shane1.app/Contents/Frameworks/libcrypto.dylib
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Frameworks/libcrypto.dylib
-    projectPath: Example-Shane1.app/Contents/Frameworks/libcrypto.dylib
+  - path: Assets/Standard Assets/Fonts/OpenSans.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Standard
+      Assets/Fonts/OpenSans.meta
+    projectPath: Assets/Standard Assets/Fonts/OpenSans.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Frameworks/libmonobdwgc-2.0.dylib
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Frameworks/libmonobdwgc-2.0.dylib
-    projectPath: Example-Shane1.app/Contents/Frameworks/libmonobdwgc-2.0.dylib
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Standard Assets/Fonts/OpenSans/License!.txt
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Standard
+      Assets/Fonts/OpenSans/License!.txt
+    projectPath: Assets/Standard Assets/Fonts/OpenSans/License!.txt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Frameworks/libMonoPosixHelper.dylib
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Frameworks/libMonoPosixHelper.dylib
-    projectPath: Example-Shane1.app/Contents/Frameworks/libMonoPosixHelper.dylib
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Standard Assets/Fonts/OpenSans/License!.txt.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Standard
+      Assets/Fonts/OpenSans/License!.txt.meta
+    projectPath: Assets/Standard Assets/Fonts/OpenSans/License!.txt.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Frameworks/libssl.dylib
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Frameworks/libssl.dylib
-    projectPath: Example-Shane1.app/Contents/Frameworks/libssl.dylib
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Standard Assets/Fonts/OpenSans/OpenSansBold.ttf
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Standard
+      Assets/Fonts/OpenSans/OpenSansBold.ttf
+    projectPath: Assets/Standard Assets/Fonts/OpenSans/OpenSansBold.ttf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Frameworks/UnityPlayer.dylib
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Frameworks/UnityPlayer.dylib
-    projectPath: Example-Shane1.app/Contents/Frameworks/UnityPlayer.dylib
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Standard Assets/Fonts/OpenSans/OpenSansBold.ttf.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Standard
+      Assets/Fonts/OpenSans/OpenSansBold.ttf.meta
+    projectPath: Assets/Standard Assets/Fonts/OpenSans/OpenSansBold.ttf.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Info.plist
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Info.plist
-    projectPath: Example-Shane1.app/Contents/Info.plist
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Standard Assets/Fonts/OpenSans/OpenSansLight.ttf
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Standard
+      Assets/Fonts/OpenSans/OpenSansLight.ttf
+    projectPath: Assets/Standard Assets/Fonts/OpenSans/OpenSansLight.ttf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MacOS/Gloom
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MacOS/Gloom
-    projectPath: Example-Shane1.app/Contents/MacOS/Gloom
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Standard Assets/Fonts/OpenSans/OpenSansLight.ttf.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Standard
+      Assets/Fonts/OpenSans/OpenSansLight.ttf.meta
+    projectPath: Assets/Standard Assets/Fonts/OpenSans/OpenSansLight.ttf.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Standard Assets/Fonts/OpenSans/OpenSansRegular.ttf
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Standard
+      Assets/Fonts/OpenSans/OpenSansRegular.ttf
+    projectPath: Assets/Standard Assets/Fonts/OpenSans/OpenSansRegular.ttf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Standard Assets/Fonts/OpenSans/OpenSansRegular.ttf.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Standard
+      Assets/Fonts/OpenSans/OpenSansRegular.ttf.meta
+    projectPath: Assets/Standard Assets/Fonts/OpenSans/OpenSansRegular.ttf.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Standard Assets/Fonts/OpenSans/OpenSansSemibold.ttf
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Standard
+      Assets/Fonts/OpenSans/OpenSansSemibold.ttf
+    projectPath: Assets/Standard Assets/Fonts/OpenSans/OpenSansSemibold.ttf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Standard Assets/Fonts/OpenSans/OpenSansSemibold.ttf.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Assets/Standard
+      Assets/Fonts/OpenSans/OpenSansSemibold.ttf.meta
+    projectPath: Assets/Standard Assets/Fonts/OpenSans/OpenSansSemibold.ttf.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/config
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/config
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/config
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/registry/last-btime
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/registry/last-btime
-    projectPath: Example-Shane1.app/Contents/MonoBleedingEdge/etc/mono/registry/last-btime
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/app.info
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/app.info
-    projectPath: Example-Shane1.app/Contents/Resources/Data/app.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/boot.config
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/boot.config
-    projectPath: Example-Shane1.app/Contents/Resources/Data/boot.config
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Example-Shane1.app/Contents/Resources/Data/globalgamemanagers
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/globalgamemanagers
     projectPath: Example-Shane1.app/Contents/Resources/Data/globalgamemanagers
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/globalgamemanagers.assets
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/globalgamemanagers.assets
-    projectPath: Example-Shane1.app/Contents/Resources/Data/globalgamemanagers.assets
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/level0
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/level0
     projectPath: Example-Shane1.app/Contents/Resources/Data/level0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/level1
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/level1
     projectPath: Example-Shane1.app/Contents/Resources/Data/level1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/level2
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/level2
     projectPath: Example-Shane1.app/Contents/Resources/Data/level2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Example-Shane1.app/Contents/Resources/Data/level3
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/level3
+    projectPath: Example-Shane1.app/Contents/Resources/Data/level3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -308,648 +157,89 @@ MonoBehaviour:
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll
     projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/Managed/Assembly-CSharp-firstpass.dll
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/Assembly-CSharp-firstpass.dll
     projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/Assembly-CSharp-firstpass.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/Managed/com.unity.multiplayer-hlapi.Runtime.dll
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/com.unity.multiplayer-hlapi.Runtime.dll
     projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/com.unity.multiplayer-hlapi.Runtime.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/Mono.Security.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/Mono.Security.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/Mono.Security.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/mscorlib.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/mscorlib.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/mscorlib.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/Managed/NavMeshComponents.dll
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/NavMeshComponents.dll
     projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/NavMeshComponents.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/Managed/NavMeshComponentsExamples.dll
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/NavMeshComponentsExamples.dll
     projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/NavMeshComponentsExamples.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/netstandard.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/netstandard.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/netstandard.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.ComponentModel.Composition.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.ComponentModel.Composition.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.ComponentModel.Composition.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Configuration.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Configuration.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Configuration.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Core.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Core.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Core.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Data.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Data.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Data.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Diagnostics.StackTrace.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Diagnostics.StackTrace.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Diagnostics.StackTrace.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Drawing.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Drawing.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Drawing.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.EnterpriseServices.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.EnterpriseServices.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.EnterpriseServices.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Globalization.Extensions.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Globalization.Extensions.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Globalization.Extensions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.IO.Compression.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.IO.Compression.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.IO.Compression.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.IO.Compression.FileSystem.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.IO.Compression.FileSystem.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.IO.Compression.FileSystem.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Net.Http.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Net.Http.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Net.Http.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Numerics.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Numerics.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Numerics.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.Xml.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.Xml.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.Xml.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.ServiceModel.Internals.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.ServiceModel.Internals.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.ServiceModel.Internals.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Transactions.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Transactions.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Transactions.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Xml.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Xml.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Xml.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Xml.Linq.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Xml.Linq.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Xml.Linq.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/System.Xml.XPath.XDocument.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/System.Xml.XPath.XDocument.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/System.Xml.XPath.XDocument.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/Managed/Unity.Analytics.DataPrivacy.dll
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/Unity.Analytics.DataPrivacy.dll
     projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/Unity.Analytics.DataPrivacy.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll
     projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/Managed/Unity.Timeline.dll
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/Unity.Timeline.dll
     projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/Unity.Timeline.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AndroidJNIModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AndroidJNIModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AndroidJNIModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.DSPGraphModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.DSPGraphModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.DSPGraphModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.InputLegacyModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.InputLegacyModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.InputLegacyModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.LocalizationModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.LocalizationModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.LocalizationModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ProfilerModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ProfilerModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ProfilerModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.Purchasing.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.Purchasing.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.Purchasing.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTracking.dll
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTracking.dll
     projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTracking.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.StreamingModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.StreamingModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.StreamingModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SubsystemsModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SubsystemsModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.SubsystemsModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
     projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityTestProtocolModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityTestProtocolModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityTestProtocolModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.VFXModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.VFXModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.VFXModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll
     projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/resources.assets
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/resources.assets
-    projectPath: Example-Shane1.app/Contents/Resources/Data/resources.assets
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/resources.assets.resS
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/resources.assets.resS
-    projectPath: Example-Shane1.app/Contents/Resources/Data/resources.assets.resS
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/Resources/unity_builtin_extra
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/Resources/unity_builtin_extra
-    projectPath: Example-Shane1.app/Contents/Resources/Data/Resources/unity_builtin_extra
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/sharedassets0.assets
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/sharedassets0.assets
     projectPath: Example-Shane1.app/Contents/Resources/Data/sharedassets0.assets
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/sharedassets0.assets.resS
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/sharedassets0.assets.resS
-    projectPath: Example-Shane1.app/Contents/Resources/Data/sharedassets0.assets.resS
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/sharedassets1.assets
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/sharedassets1.assets
     projectPath: Example-Shane1.app/Contents/Resources/Data/sharedassets1.assets
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/sharedassets1.assets.resS
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/sharedassets1.assets.resS
-    projectPath: Example-Shane1.app/Contents/Resources/Data/sharedassets1.assets.resS
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/sharedassets1.resource
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/sharedassets1.resource
-    projectPath: Example-Shane1.app/Contents/Resources/Data/sharedassets1.resource
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Example-Shane1.app/Contents/Resources/Data/sharedassets2.assets
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/sharedassets2.assets
     projectPath: Example-Shane1.app/Contents/Resources/Data/sharedassets2.assets
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/Data/sharedassets2.assets.resS
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/sharedassets2.assets.resS
-    projectPath: Example-Shane1.app/Contents/Resources/Data/sharedassets2.assets.resS
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/DefaultPreferences.plist
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/DefaultPreferences.plist
-    projectPath: Example-Shane1.app/Contents/Resources/DefaultPreferences.plist
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/MainMenu.nib
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/MainMenu.nib
-    projectPath: Example-Shane1.app/Contents/Resources/MainMenu.nib
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Example-Shane1.app/Contents/Resources/unity default resources
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/unity
-      default resources
-    projectPath: Example-Shane1.app/Contents/Resources/unity default resources
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Example-Shane1.app/Contents/Resources/Data/sharedassets3.assets
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Example-Shane1.app/Contents/Resources/Data/sharedassets3.assets
+    projectPath: Example-Shane1.app/Contents/Resources/Data/sharedassets3.assets
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -959,60 +249,192 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/2d/2dbd717f604d3fcef855b1bf686d3540
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/2d/2dbd717f604d3fcef855b1bf686d3540
-    projectPath: Library/Artifacts/2d/2dbd717f604d3fcef855b1bf686d3540
+  - path: Library/Artifacts/00/006c195f5a8539f2de800868e31b3095
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/00/006c195f5a8539f2de800868e31b3095
+    projectPath: Library/Artifacts/00/006c195f5a8539f2de800868e31b3095
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/44/44d4ac407527997e90800a6f9c8c0731
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/44/44d4ac407527997e90800a6f9c8c0731
-    projectPath: Library/Artifacts/44/44d4ac407527997e90800a6f9c8c0731
+  - path: Library/Artifacts/0c/0c33b5db107864e1dfe12a07014ce597
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/0c/0c33b5db107864e1dfe12a07014ce597
+    projectPath: Library/Artifacts/0c/0c33b5db107864e1dfe12a07014ce597
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/52/5210ca28f0d32d5cd1060ff2aa79a1c7
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/52/5210ca28f0d32d5cd1060ff2aa79a1c7
-    projectPath: Library/Artifacts/52/5210ca28f0d32d5cd1060ff2aa79a1c7
+  - path: Library/Artifacts/22/227204a921679a00781e805abec481b0
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/22/227204a921679a00781e805abec481b0
+    projectPath: Library/Artifacts/22/227204a921679a00781e805abec481b0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/b2/b2d2e7e4ab629210b6b03ad8a02038ca
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/b2/b2d2e7e4ab629210b6b03ad8a02038ca
-    projectPath: Library/Artifacts/b2/b2d2e7e4ab629210b6b03ad8a02038ca
+  - path: Library/Artifacts/2c/2c4bf5f6502f8b1a6835680d1278c9a8
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/2c/2c4bf5f6502f8b1a6835680d1278c9a8
+    projectPath: Library/Artifacts/2c/2c4bf5f6502f8b1a6835680d1278c9a8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/b9/b9235be850c746e5d9489fb5fad6578e
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/b9/b9235be850c746e5d9489fb5fad6578e
-    projectPath: Library/Artifacts/b9/b9235be850c746e5d9489fb5fad6578e
+  - path: Library/Artifacts/30/30b18c92f62c4b792f325eccf3dd3495
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/30/30b18c92f62c4b792f325eccf3dd3495
+    projectPath: Library/Artifacts/30/30b18c92f62c4b792f325eccf3dd3495
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/e1/e1c194eed7ff75a174eb2c54c8d2cb48
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/e1/e1c194eed7ff75a174eb2c54c8d2cb48
-    projectPath: Library/Artifacts/e1/e1c194eed7ff75a174eb2c54c8d2cb48
+  - path: Library/Artifacts/36/3641c62d1804cfe292b9bddb858c2394
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/36/3641c62d1804cfe292b9bddb858c2394
+    projectPath: Library/Artifacts/36/3641c62d1804cfe292b9bddb858c2394
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/f6/f67be87632a2d353e377326c1e6f257c
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/f6/f67be87632a2d353e377326c1e6f257c
-    projectPath: Library/Artifacts/f6/f67be87632a2d353e377326c1e6f257c
+  - path: Library/Artifacts/37/370ac2752417bc8fbf722bf9822ea5c0
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/37/370ac2752417bc8fbf722bf9822ea5c0
+    projectPath: Library/Artifacts/37/370ac2752417bc8fbf722bf9822ea5c0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/EditorUserBuildSettings.asset
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/EditorUserBuildSettings.asset
-    projectPath: Library/EditorUserBuildSettings.asset
+  - path: Library/Artifacts/41/411aa170f90d14227804794efbb52a5c
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/41/411aa170f90d14227804794efbb52a5c
+    projectPath: Library/Artifacts/41/411aa170f90d14227804794efbb52a5c
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/42/42932d512c7e31d85ce66dd10228de3f
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/42/42932d512c7e31d85ce66dd10228de3f
+    projectPath: Library/Artifacts/42/42932d512c7e31d85ce66dd10228de3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/46/46b88e8b37957911a447b88395193614
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/46/46b88e8b37957911a447b88395193614
+    projectPath: Library/Artifacts/46/46b88e8b37957911a447b88395193614
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4c/4cac828f80567d859956ec3d20561b92
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/4c/4cac828f80567d859956ec3d20561b92
+    projectPath: Library/Artifacts/4c/4cac828f80567d859956ec3d20561b92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/62/625137b09a764a369f51e8628c330cbe
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/62/625137b09a764a369f51e8628c330cbe
+    projectPath: Library/Artifacts/62/625137b09a764a369f51e8628c330cbe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/6f/6f5679cf4a0f43766a6cd1f874c1d016
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/6f/6f5679cf4a0f43766a6cd1f874c1d016
+    projectPath: Library/Artifacts/6f/6f5679cf4a0f43766a6cd1f874c1d016
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8d/8d70ecf626ad02eb4ea1a3509e43674e
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/8d/8d70ecf626ad02eb4ea1a3509e43674e
+    projectPath: Library/Artifacts/8d/8d70ecf626ad02eb4ea1a3509e43674e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/93/93b2f24d3a35d4a62735b1273cf9866a
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/93/93b2f24d3a35d4a62735b1273cf9866a
+    projectPath: Library/Artifacts/93/93b2f24d3a35d4a62735b1273cf9866a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/94/9475f18050e240784814685fd93de0bf
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/94/9475f18050e240784814685fd93de0bf
+    projectPath: Library/Artifacts/94/9475f18050e240784814685fd93de0bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/97/9705b3e45aaeb027ef53da29462d0bba
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/97/9705b3e45aaeb027ef53da29462d0bba
+    projectPath: Library/Artifacts/97/9705b3e45aaeb027ef53da29462d0bba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9f/9f8518bb695fb924f790aea9a4ea0c55
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/9f/9f8518bb695fb924f790aea9a4ea0c55
+    projectPath: Library/Artifacts/9f/9f8518bb695fb924f790aea9a4ea0c55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ac/acc6a881d3fe0b4e0f71e3903383c7b2
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/ac/acc6a881d3fe0b4e0f71e3903383c7b2
+    projectPath: Library/Artifacts/ac/acc6a881d3fe0b4e0f71e3903383c7b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b2/b24ef6f7620452f9a807f5d43b8b43ca
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/b2/b24ef6f7620452f9a807f5d43b8b43ca
+    projectPath: Library/Artifacts/b2/b24ef6f7620452f9a807f5d43b8b43ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ba/babe672cbdde527d9fad155f25510546
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/ba/babe672cbdde527d9fad155f25510546
+    projectPath: Library/Artifacts/ba/babe672cbdde527d9fad155f25510546
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bc/bc816f874ee5313e5eb66b27785ed57b
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/bc/bc816f874ee5313e5eb66b27785ed57b
+    projectPath: Library/Artifacts/bc/bc816f874ee5313e5eb66b27785ed57b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ca/cad8da3e3e9571fb51c3a9a440ed3538
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/ca/cad8da3e3e9571fb51c3a9a440ed3538
+    projectPath: Library/Artifacts/ca/cad8da3e3e9571fb51c3a9a440ed3538
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ca/cae9f36d52d21813a32036c4be72151e
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/ca/cae9f36d52d21813a32036c4be72151e
+    projectPath: Library/Artifacts/ca/cae9f36d52d21813a32036c4be72151e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ce/ce593558e515a0c0cb79bac50b1ebf44
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/ce/ce593558e515a0c0cb79bac50b1ebf44
+    projectPath: Library/Artifacts/ce/ce593558e515a0c0cb79bac50b1ebf44
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d6/d6f06ab7d0e8eaed1c475a96c53740c6
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/d6/d6f06ab7d0e8eaed1c475a96c53740c6
+    projectPath: Library/Artifacts/d6/d6f06ab7d0e8eaed1c475a96c53740c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e3/e316f7176491f70ac1ef8701c3f5c011
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/e3/e316f7176491f70ac1ef8701c3f5c011
+    projectPath: Library/Artifacts/e3/e316f7176491f70ac1ef8701c3f5c011
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e9/e90f686ec3fd6f36ed3767819dab7db3
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/e9/e90f686ec3fd6f36ed3767819dab7db3
+    projectPath: Library/Artifacts/e9/e90f686ec3fd6f36ed3767819dab7db3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ea/ea1147c56e15311c0dbd392230733d70
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/ea/ea1147c56e15311c0dbd392230733d70
+    projectPath: Library/Artifacts/ea/ea1147c56e15311c0dbd392230733d70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ea/ea5f3dfaddfefdc6ae3123dc99f1943a
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/Artifacts/ea/ea5f3dfaddfefdc6ae3123dc99f1943a
+    projectPath: Library/Artifacts/ea/ea5f3dfaddfefdc6ae3123dc99f1943a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
@@ -1023,8 +445,8 @@ MonoBehaviour:
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/gfu/cache/gitlog.yaml
     projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
@@ -1055,12 +477,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers.assets
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers.assets
-    projectPath: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/PlayerDataCache/OSXUniversal/Data/level0
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/PlayerDataCache/OSXUniversal/Data/level0
     projectPath: Library/PlayerDataCache/OSXUniversal/Data/level0
@@ -1076,6 +492,12 @@ MonoBehaviour:
   - path: Library/PlayerDataCache/OSXUniversal/Data/level2
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/PlayerDataCache/OSXUniversal/Data/level2
     projectPath: Library/PlayerDataCache/OSXUniversal/Data/level2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level3
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/PlayerDataCache/OSXUniversal/Data/level3
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1145,27 +567,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/PlayerDataCache/OSXUniversal/Data/resources.assets
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/PlayerDataCache/OSXUniversal/Data/resources.assets
-    projectPath: Library/PlayerDataCache/OSXUniversal/Data/resources.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/PlayerDataCache/OSXUniversal/Data/resources.assets.resS
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/PlayerDataCache/OSXUniversal/Data/resources.assets.resS
-    projectPath: Library/PlayerDataCache/OSXUniversal/Data/resources.assets.resS
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets
     projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets.resS
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets.resS
-    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets.resS
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1179,23 +583,17 @@ MonoBehaviour:
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/PlayerDataCache/OSXUniversal/Data/sharedassets2.assets
     projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets2.assets
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets2.assets.resS
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/PlayerDataCache/OSXUniversal/Data/sharedassets2.assets.resS
-    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets2.assets.resS
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
     projectPath: Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/SceneVisibilityState.asset
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/SceneVisibilityState.asset
-    projectPath: Library/SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1217,84 +615,30 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler1.log
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/shadercompiler-UnityShaderCompiler1.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler10.log
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/shadercompiler-UnityShaderCompiler10.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler10.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler11.log
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/shadercompiler-UnityShaderCompiler11.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler11.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler2.log
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/shadercompiler-UnityShaderCompiler2.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler3.log
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/shadercompiler-UnityShaderCompiler3.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler4.log
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/shadercompiler-UnityShaderCompiler4.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler5.log
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/shadercompiler-UnityShaderCompiler5.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler5.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler6.log
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/shadercompiler-UnityShaderCompiler6.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler6.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler7.log
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/shadercompiler-UnityShaderCompiler7.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler7.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler8.log
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/shadercompiler-UnityShaderCompiler8.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler8.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler9.log
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/shadercompiler-UnityShaderCompiler9.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler9.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/SourceAssetDB
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/d77777-45616935e4fe10f48b.json
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/StateCache/Hierarchy/d77777-45616935e4fe10f48b.json
+    projectPath: Library/StateCache/Hierarchy/d77777-45616935e4fe10f48b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/StateCache/Hierarchy/d77777-mainStage.json
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/StateCache/Hierarchy/d77777-mainStage.json
     projectPath: Library/StateCache/Hierarchy/d77777-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/StateCache/SceneView/141d07-45616935e4fe10f48b.json
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/StateCache/SceneView/141d07-45616935e4fe10f48b.json
+    projectPath: Library/StateCache/SceneView/141d07-45616935e4fe10f48b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/StateCache/SceneView/141d07-mainStage.json
     fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/StateCache/SceneView/141d07-mainStage.json
     projectPath: Library/StateCache/SceneView/141d07-mainStage.json
@@ -1313,357 +657,849 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/__Backupscenes/1.backup
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/__Backupscenes/1.backup
-    projectPath: Temp/__Backupscenes/1.backup
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/.icon.png
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/.icon.png
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/.icon.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/ProcessJobs/10a2e892ac81a1d5040abcb5b5c8f329.bakert
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/ProcessJobs/10a2e892ac81a1d5040abcb5b5c8f329.bakert
-    projectPath: Temp/ProcessJobs/10a2e892ac81a1d5040abcb5b5c8f329.bakert
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/01cd679a1b9ee48bf9c546f6ce2cb97e/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/01cd679a1b9ee48bf9c546f6ce2cb97e/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/01cd679a1b9ee48bf9c546f6ce2cb97e/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/ProcessJobs/6e05215069b47635404c47268efc31c0.bakert
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/ProcessJobs/6e05215069b47635404c47268efc31c0.bakert
-    projectPath: Temp/ProcessJobs/6e05215069b47635404c47268efc31c0.bakert
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/01cd679a1b9ee48bf9c546f6ce2cb97e/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/01cd679a1b9ee48bf9c546f6ce2cb97e/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/01cd679a1b9ee48bf9c546f6ce2cb97e/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/tempFile.res
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/tempFile.res
-    projectPath: Temp/tempFile.res
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/01cd679a1b9ee48bf9c546f6ce2cb97e/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/01cd679a1b9ee48bf9c546f6ce2cb97e/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/01cd679a1b9ee48bf9c546f6ce2cb97e/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/tempFile.resG
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/tempFile.resG
-    projectPath: Temp/tempFile.resG
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/04a842e316b6f44bf8da702de26a8ed6/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/04a842e316b6f44bf8da702de26a8ed6/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/04a842e316b6f44bf8da702de26a8ed6/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-026753341ebf649f98bd90a93435b6a3
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-026753341ebf649f98bd90a93435b6a3
-    projectPath: Temp/UnityTempFile-026753341ebf649f98bd90a93435b6a3
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/04a842e316b6f44bf8da702de26a8ed6/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/04a842e316b6f44bf8da702de26a8ed6/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/04a842e316b6f44bf8da702de26a8ed6/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-051d9e2726c13442abfdc7f0745dc6f4
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-051d9e2726c13442abfdc7f0745dc6f4
-    projectPath: Temp/UnityTempFile-051d9e2726c13442abfdc7f0745dc6f4
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/04a842e316b6f44bf8da702de26a8ed6/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/04a842e316b6f44bf8da702de26a8ed6/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/04a842e316b6f44bf8da702de26a8ed6/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-0e697bdaacc3443d08e74bf7a249193c
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-0e697bdaacc3443d08e74bf7a249193c
-    projectPath: Temp/UnityTempFile-0e697bdaacc3443d08e74bf7a249193c
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/09e6aa986011d8544be57e55b497b8af/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/09e6aa986011d8544be57e55b497b8af/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/09e6aa986011d8544be57e55b497b8af/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-0e92de8019604432bbb923a690937ae1
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-0e92de8019604432bbb923a690937ae1
-    projectPath: Temp/UnityTempFile-0e92de8019604432bbb923a690937ae1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/09e6aa986011d8544be57e55b497b8af/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/09e6aa986011d8544be57e55b497b8af/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/09e6aa986011d8544be57e55b497b8af/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-18094d25f8a3e4ca7bf36bc77a64ebd9
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-18094d25f8a3e4ca7bf36bc77a64ebd9
-    projectPath: Temp/UnityTempFile-18094d25f8a3e4ca7bf36bc77a64ebd9
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0a8c1a9ef83862b4d92f3de94c47b1e9/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0a8c1a9ef83862b4d92f3de94c47b1e9/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0a8c1a9ef83862b4d92f3de94c47b1e9/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-1f53c4b7a705a4ffead677c347dc9002
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-1f53c4b7a705a4ffead677c347dc9002
-    projectPath: Temp/UnityTempFile-1f53c4b7a705a4ffead677c347dc9002
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0a8c1a9ef83862b4d92f3de94c47b1e9/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0a8c1a9ef83862b4d92f3de94c47b1e9/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0a8c1a9ef83862b4d92f3de94c47b1e9/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-214ee463a758c49f6b49603f2e2db5b0
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-214ee463a758c49f6b49603f2e2db5b0
-    projectPath: Temp/UnityTempFile-214ee463a758c49f6b49603f2e2db5b0
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0a8c1a9ef83862b4d92f3de94c47b1e9/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0a8c1a9ef83862b4d92f3de94c47b1e9/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0a8c1a9ef83862b4d92f3de94c47b1e9/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-276cd2be470cc49fcb1abc214e667ac9
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-276cd2be470cc49fcb1abc214e667ac9
-    projectPath: Temp/UnityTempFile-276cd2be470cc49fcb1abc214e667ac9
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0ac7fb39e445048d89688f69c2a1839a/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0ac7fb39e445048d89688f69c2a1839a/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0ac7fb39e445048d89688f69c2a1839a/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-349a52ab017204e478877583ec04901c
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-349a52ab017204e478877583ec04901c
-    projectPath: Temp/UnityTempFile-349a52ab017204e478877583ec04901c
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0ac7fb39e445048d89688f69c2a1839a/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0ac7fb39e445048d89688f69c2a1839a/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0ac7fb39e445048d89688f69c2a1839a/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-3bebd55f4f31849b9b7d6980a3b98428
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-3bebd55f4f31849b9b7d6980a3b98428
-    projectPath: Temp/UnityTempFile-3bebd55f4f31849b9b7d6980a3b98428
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0ac7fb39e445048d89688f69c2a1839a/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0ac7fb39e445048d89688f69c2a1839a/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/0ac7fb39e445048d89688f69c2a1839a/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-3d9e3ad290d5a417d891398d55f05d1f
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-3d9e3ad290d5a417d891398d55f05d1f
-    projectPath: Temp/UnityTempFile-3d9e3ad290d5a417d891398d55f05d1f
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/187aa6f51e61a3c45badb2915cfa1a85/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/187aa6f51e61a3c45badb2915cfa1a85/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/187aa6f51e61a3c45badb2915cfa1a85/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-4114e85f9e4db44f3afba1b63827e0ca
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-4114e85f9e4db44f3afba1b63827e0ca
-    projectPath: Temp/UnityTempFile-4114e85f9e4db44f3afba1b63827e0ca
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/187aa6f51e61a3c45badb2915cfa1a85/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/187aa6f51e61a3c45badb2915cfa1a85/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/187aa6f51e61a3c45badb2915cfa1a85/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-41166fcbb7ca0499b8cb24693895fd68
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-41166fcbb7ca0499b8cb24693895fd68
-    projectPath: Temp/UnityTempFile-41166fcbb7ca0499b8cb24693895fd68
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/187aa6f51e61a3c45badb2915cfa1a85/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/187aa6f51e61a3c45badb2915cfa1a85/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/187aa6f51e61a3c45badb2915cfa1a85/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-4743bc558a2d44518b13b8cbc964070e
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-4743bc558a2d44518b13b8cbc964070e
-    projectPath: Temp/UnityTempFile-4743bc558a2d44518b13b8cbc964070e
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/270e912dd613348b6bfc29d571ca66b5/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/270e912dd613348b6bfc29d571ca66b5/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/270e912dd613348b6bfc29d571ca66b5/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-4db848e602ab8468fb8543e7a57552ed
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-4db848e602ab8468fb8543e7a57552ed
-    projectPath: Temp/UnityTempFile-4db848e602ab8468fb8543e7a57552ed
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/270e912dd613348b6bfc29d571ca66b5/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/270e912dd613348b6bfc29d571ca66b5/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/270e912dd613348b6bfc29d571ca66b5/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-4f7f466657c1141fd82db1f4910ff25b
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-4f7f466657c1141fd82db1f4910ff25b
-    projectPath: Temp/UnityTempFile-4f7f466657c1141fd82db1f4910ff25b
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/335c2705d07897344bbebd818aa507ab/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/335c2705d07897344bbebd818aa507ab/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/335c2705d07897344bbebd818aa507ab/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-4fc24ccd812654c458e11ff03525ba5c
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-4fc24ccd812654c458e11ff03525ba5c
-    projectPath: Temp/UnityTempFile-4fc24ccd812654c458e11ff03525ba5c
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/335c2705d07897344bbebd818aa507ab/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/335c2705d07897344bbebd818aa507ab/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/335c2705d07897344bbebd818aa507ab/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-501cca01580f24193a8207273c5928d4
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-501cca01580f24193a8207273c5928d4
-    projectPath: Temp/UnityTempFile-501cca01580f24193a8207273c5928d4
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3715924f773d45348899c34a38270e00/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3715924f773d45348899c34a38270e00/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3715924f773d45348899c34a38270e00/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-582bc181dbfe743dd81f9053c6fa2686
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-582bc181dbfe743dd81f9053c6fa2686
-    projectPath: Temp/UnityTempFile-582bc181dbfe743dd81f9053c6fa2686
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3715924f773d45348899c34a38270e00/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3715924f773d45348899c34a38270e00/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3715924f773d45348899c34a38270e00/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-5d446d1c3a685439c833bc3c62b9bf2b
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-5d446d1c3a685439c833bc3c62b9bf2b
-    projectPath: Temp/UnityTempFile-5d446d1c3a685439c833bc3c62b9bf2b
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3715924f773d45348899c34a38270e00/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3715924f773d45348899c34a38270e00/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3715924f773d45348899c34a38270e00/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-619f6416a0cd6488ca436a24b3fdebdf
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-619f6416a0cd6488ca436a24b3fdebdf
-    projectPath: Temp/UnityTempFile-619f6416a0cd6488ca436a24b3fdebdf
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3f0eb2665378a0a41988ba469999b2e3/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3f0eb2665378a0a41988ba469999b2e3/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3f0eb2665378a0a41988ba469999b2e3/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-622ceb74e9ed34fac93433d9a1e28f33
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-622ceb74e9ed34fac93433d9a1e28f33
-    projectPath: Temp/UnityTempFile-622ceb74e9ed34fac93433d9a1e28f33
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3f0eb2665378a0a41988ba469999b2e3/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3f0eb2665378a0a41988ba469999b2e3/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3f0eb2665378a0a41988ba469999b2e3/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-63a79fc4232d94a2691c12e03314414b
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-63a79fc4232d94a2691c12e03314414b
-    projectPath: Temp/UnityTempFile-63a79fc4232d94a2691c12e03314414b
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3f0eb2665378a0a41988ba469999b2e3/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3f0eb2665378a0a41988ba469999b2e3/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/3f0eb2665378a0a41988ba469999b2e3/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-6c308821c671e4311aff743b66f5170d
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-6c308821c671e4311aff743b66f5170d
-    projectPath: Temp/UnityTempFile-6c308821c671e4311aff743b66f5170d
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/448a8bcccb6c4a9499413d47af705f17/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/448a8bcccb6c4a9499413d47af705f17/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/448a8bcccb6c4a9499413d47af705f17/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-6cc4635b214ac47c79e0e1dbc5d1d387
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-6cc4635b214ac47c79e0e1dbc5d1d387
-    projectPath: Temp/UnityTempFile-6cc4635b214ac47c79e0e1dbc5d1d387
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/448a8bcccb6c4a9499413d47af705f17/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/448a8bcccb6c4a9499413d47af705f17/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/448a8bcccb6c4a9499413d47af705f17/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-7946f21d56bde4cef92c15a2671f7c67
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-7946f21d56bde4cef92c15a2671f7c67
-    projectPath: Temp/UnityTempFile-7946f21d56bde4cef92c15a2671f7c67
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/448a8bcccb6c4a9499413d47af705f17/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/448a8bcccb6c4a9499413d47af705f17/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/448a8bcccb6c4a9499413d47af705f17/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-7a44994cd6b5b4ecc8927236cad64758
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-7a44994cd6b5b4ecc8927236cad64758
-    projectPath: Temp/UnityTempFile-7a44994cd6b5b4ecc8927236cad64758
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4504ba06413263142b2b00f16b20d57c/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4504ba06413263142b2b00f16b20d57c/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4504ba06413263142b2b00f16b20d57c/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-81abe73cbca194bada2450fbbe078122
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-81abe73cbca194bada2450fbbe078122
-    projectPath: Temp/UnityTempFile-81abe73cbca194bada2450fbbe078122
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4504ba06413263142b2b00f16b20d57c/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4504ba06413263142b2b00f16b20d57c/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4504ba06413263142b2b00f16b20d57c/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-8a8e878d298ea42f0a32667085a2c63d
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-8a8e878d298ea42f0a32667085a2c63d
-    projectPath: Temp/UnityTempFile-8a8e878d298ea42f0a32667085a2c63d
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/45616935e4fe10f48b62da1347801a16/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/45616935e4fe10f48b62da1347801a16/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/45616935e4fe10f48b62da1347801a16/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-8c7462ee01d894243be865db4b89ca37
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-8c7462ee01d894243be865db4b89ca37
-    projectPath: Temp/UnityTempFile-8c7462ee01d894243be865db4b89ca37
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/45616935e4fe10f48b62da1347801a16/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/45616935e4fe10f48b62da1347801a16/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/45616935e4fe10f48b62da1347801a16/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-8ebdfb1aa052a4bbea1412bdfd5c70cc
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-8ebdfb1aa052a4bbea1412bdfd5c70cc
-    projectPath: Temp/UnityTempFile-8ebdfb1aa052a4bbea1412bdfd5c70cc
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/45616935e4fe10f48b62da1347801a16/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/45616935e4fe10f48b62da1347801a16/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/45616935e4fe10f48b62da1347801a16/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-913fac333da1044a09d55026dd3e30a6
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-913fac333da1044a09d55026dd3e30a6
-    projectPath: Temp/UnityTempFile-913fac333da1044a09d55026dd3e30a6
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4925154b479fa4e72bf1f8eae56bffec/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4925154b479fa4e72bf1f8eae56bffec/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4925154b479fa4e72bf1f8eae56bffec/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-99c35573939fc42aa8bffb371a288d6b
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-99c35573939fc42aa8bffb371a288d6b
-    projectPath: Temp/UnityTempFile-99c35573939fc42aa8bffb371a288d6b
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4925154b479fa4e72bf1f8eae56bffec/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4925154b479fa4e72bf1f8eae56bffec/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4925154b479fa4e72bf1f8eae56bffec/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-b06b01fd7841841259f7f23290cd88d5
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-b06b01fd7841841259f7f23290cd88d5
-    projectPath: Temp/UnityTempFile-b06b01fd7841841259f7f23290cd88d5
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a59668901fb5d14092bc18436459877/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a59668901fb5d14092bc18436459877/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a59668901fb5d14092bc18436459877/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-b09f863d4046b49048924c9ae57cba34
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-b09f863d4046b49048924c9ae57cba34
-    projectPath: Temp/UnityTempFile-b09f863d4046b49048924c9ae57cba34
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a59668901fb5d14092bc18436459877/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a59668901fb5d14092bc18436459877/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a59668901fb5d14092bc18436459877/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-cd1e25e03794a41ac9a6ae85730a3c08
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-cd1e25e03794a41ac9a6ae85730a3c08
-    projectPath: Temp/UnityTempFile-cd1e25e03794a41ac9a6ae85730a3c08
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a59668901fb5d14092bc18436459877/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a59668901fb5d14092bc18436459877/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a59668901fb5d14092bc18436459877/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-d37873b4cd7664f218777ead7f014b64
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-d37873b4cd7664f218777ead7f014b64
-    projectPath: Temp/UnityTempFile-d37873b4cd7664f218777ead7f014b64
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a7723679572e4ade879f5906cde74eb/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a7723679572e4ade879f5906cde74eb/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a7723679572e4ade879f5906cde74eb/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-d71bf0682fa0c469cb92b8bec1e99a92
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-d71bf0682fa0c469cb92b8bec1e99a92
-    projectPath: Temp/UnityTempFile-d71bf0682fa0c469cb92b8bec1e99a92
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a7723679572e4ade879f5906cde74eb/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a7723679572e4ade879f5906cde74eb/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a7723679572e4ade879f5906cde74eb/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-d8d32b3023f984d5a809c66f8b63c96d
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-d8d32b3023f984d5a809c66f8b63c96d
-    projectPath: Temp/UnityTempFile-d8d32b3023f984d5a809c66f8b63c96d
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a7723679572e4ade879f5906cde74eb/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a7723679572e4ade879f5906cde74eb/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/4a7723679572e4ade879f5906cde74eb/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-dd2d8093c55014bf5ab9b78172f2d084
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-dd2d8093c55014bf5ab9b78172f2d084
-    projectPath: Temp/UnityTempFile-dd2d8093c55014bf5ab9b78172f2d084
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/5697b782242bf5440bc04bba0c6ce7f0/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/5697b782242bf5440bc04bba0c6ce7f0/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/5697b782242bf5440bc04bba0c6ce7f0/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-e09b58ef5c5c0449ab5ae7a18fd0c12d
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-e09b58ef5c5c0449ab5ae7a18fd0c12d
-    projectPath: Temp/UnityTempFile-e09b58ef5c5c0449ab5ae7a18fd0c12d
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/5697b782242bf5440bc04bba0c6ce7f0/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/5697b782242bf5440bc04bba0c6ce7f0/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/5697b782242bf5440bc04bba0c6ce7f0/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-e43ed7f2e8bd7423cac1c69fc19a24ee
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-e43ed7f2e8bd7423cac1c69fc19a24ee
-    projectPath: Temp/UnityTempFile-e43ed7f2e8bd7423cac1c69fc19a24ee
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/60ffe2e0cce24e54eb5aa46966d599a8/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/60ffe2e0cce24e54eb5aa46966d599a8/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/60ffe2e0cce24e54eb5aa46966d599a8/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-e482857e3356c4be5ae2df7d99a50c92
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-e482857e3356c4be5ae2df7d99a50c92
-    projectPath: Temp/UnityTempFile-e482857e3356c4be5ae2df7d99a50c92
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/60ffe2e0cce24e54eb5aa46966d599a8/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/60ffe2e0cce24e54eb5aa46966d599a8/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/60ffe2e0cce24e54eb5aa46966d599a8/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-e9d66d3a2309542cab90ab4fdf04e3c0
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-e9d66d3a2309542cab90ab4fdf04e3c0
-    projectPath: Temp/UnityTempFile-e9d66d3a2309542cab90ab4fdf04e3c0
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/60ffe2e0cce24e54eb5aa46966d599a8/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/60ffe2e0cce24e54eb5aa46966d599a8/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/60ffe2e0cce24e54eb5aa46966d599a8/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-ea486968e20754e07ab392b0edcc0403
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-ea486968e20754e07ab392b0edcc0403
-    projectPath: Temp/UnityTempFile-ea486968e20754e07ab392b0edcc0403
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/65650c8865f91f4439156d19ec415767/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/65650c8865f91f4439156d19ec415767/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/65650c8865f91f4439156d19ec415767/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-eafe7530e23cf4d19a66104a9a91acf4
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-eafe7530e23cf4d19a66104a9a91acf4
-    projectPath: Temp/UnityTempFile-eafe7530e23cf4d19a66104a9a91acf4
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/65650c8865f91f4439156d19ec415767/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/65650c8865f91f4439156d19ec415767/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/65650c8865f91f4439156d19ec415767/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-ec93a1daa528d47f8ab0eea2f722dfcb
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-ec93a1daa528d47f8ab0eea2f722dfcb
-    projectPath: Temp/UnityTempFile-ec93a1daa528d47f8ab0eea2f722dfcb
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/65650c8865f91f4439156d19ec415767/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/65650c8865f91f4439156d19ec415767/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/65650c8865f91f4439156d19ec415767/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-ef3e702baa1b94eb995bbd37108d3215
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-ef3e702baa1b94eb995bbd37108d3215
-    projectPath: Temp/UnityTempFile-ef3e702baa1b94eb995bbd37108d3215
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/66cc5b31a6ed3c34198bf917886b262f/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/66cc5b31a6ed3c34198bf917886b262f/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/66cc5b31a6ed3c34198bf917886b262f/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-efab37288284b442b9bc6beed74834fe
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-efab37288284b442b9bc6beed74834fe
-    projectPath: Temp/UnityTempFile-efab37288284b442b9bc6beed74834fe
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/66cc5b31a6ed3c34198bf917886b262f/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/66cc5b31a6ed3c34198bf917886b262f/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/66cc5b31a6ed3c34198bf917886b262f/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-f1b117393da5b444ebf341993a545634
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-f1b117393da5b444ebf341993a545634
-    projectPath: Temp/UnityTempFile-f1b117393da5b444ebf341993a545634
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/66cc5b31a6ed3c34198bf917886b262f/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/66cc5b31a6ed3c34198bf917886b262f/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/66cc5b31a6ed3c34198bf917886b262f/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-fa469218df7be4b44b5e25f8ed6eae69
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-fa469218df7be4b44b5e25f8ed6eae69
-    projectPath: Temp/UnityTempFile-fa469218df7be4b44b5e25f8ed6eae69
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/678b2904248514f5580dcfd939c12f8d/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/678b2904248514f5580dcfd939c12f8d/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/678b2904248514f5580dcfd939c12f8d/asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-fb8a0b5e2e6b444a88e7b0aaa92bf9ca
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-fb8a0b5e2e6b444a88e7b0aaa92bf9ca
-    projectPath: Temp/UnityTempFile-fb8a0b5e2e6b444a88e7b0aaa92bf9ca
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/678b2904248514f5580dcfd939c12f8d/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/678b2904248514f5580dcfd939c12f8d/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/678b2904248514f5580dcfd939c12f8d/pathname
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-fb8ed633bf44442aea986caac5148e65
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-fb8ed633bf44442aea986caac5148e65
-    projectPath: Temp/UnityTempFile-fb8ed633bf44442aea986caac5148e65
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/7db0c87ec4fdb0e48af04349c4f14df9/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/7db0c87ec4fdb0e48af04349c4f14df9/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/7db0c87ec4fdb0e48af04349c4f14df9/asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-fb8fd554c5805491cbc59b5557160ed2
-    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-fb8fd554c5805491cbc59b5557160ed2
-    projectPath: Temp/UnityTempFile-fb8fd554c5805491cbc59b5557160ed2
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/7db0c87ec4fdb0e48af04349c4f14df9/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/7db0c87ec4fdb0e48af04349c4f14df9/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/7db0c87ec4fdb0e48af04349c4f14df9/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/7db0c87ec4fdb0e48af04349c4f14df9/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/7db0c87ec4fdb0e48af04349c4f14df9/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/7db0c87ec4fdb0e48af04349c4f14df9/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/7db0c87ec4fdb0e48af04349c4f14df9/preview.png
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/7db0c87ec4fdb0e48af04349c4f14df9/preview.png
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/7db0c87ec4fdb0e48af04349c4f14df9/preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/814c3ce80a29f144f9bb13fde37d2d16/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/814c3ce80a29f144f9bb13fde37d2d16/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/814c3ce80a29f144f9bb13fde37d2d16/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/814c3ce80a29f144f9bb13fde37d2d16/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/814c3ce80a29f144f9bb13fde37d2d16/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/814c3ce80a29f144f9bb13fde37d2d16/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/814c3ce80a29f144f9bb13fde37d2d16/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/814c3ce80a29f144f9bb13fde37d2d16/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/814c3ce80a29f144f9bb13fde37d2d16/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/87c316b602156405d92e616621658222/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/87c316b602156405d92e616621658222/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/87c316b602156405d92e616621658222/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/87c316b602156405d92e616621658222/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/87c316b602156405d92e616621658222/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/87c316b602156405d92e616621658222/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/87c316b602156405d92e616621658222/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/87c316b602156405d92e616621658222/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/87c316b602156405d92e616621658222/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/8df35095f64705f4bbe2c5f103ac97a6/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/8df35095f64705f4bbe2c5f103ac97a6/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/8df35095f64705f4bbe2c5f103ac97a6/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/8df35095f64705f4bbe2c5f103ac97a6/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/8df35095f64705f4bbe2c5f103ac97a6/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/8df35095f64705f4bbe2c5f103ac97a6/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9623e989f1af0480990a4cc5c3928663/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9623e989f1af0480990a4cc5c3928663/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9623e989f1af0480990a4cc5c3928663/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9623e989f1af0480990a4cc5c3928663/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9623e989f1af0480990a4cc5c3928663/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9623e989f1af0480990a4cc5c3928663/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9623e989f1af0480990a4cc5c3928663/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9623e989f1af0480990a4cc5c3928663/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9623e989f1af0480990a4cc5c3928663/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9c9e36e31de9ee84d9ca18b620a85c41/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9c9e36e31de9ee84d9ca18b620a85c41/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9c9e36e31de9ee84d9ca18b620a85c41/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9c9e36e31de9ee84d9ca18b620a85c41/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9c9e36e31de9ee84d9ca18b620a85c41/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9c9e36e31de9ee84d9ca18b620a85c41/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9c9e36e31de9ee84d9ca18b620a85c41/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9c9e36e31de9ee84d9ca18b620a85c41/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/9c9e36e31de9ee84d9ca18b620a85c41/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a085c22128976a648af266750a438410/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a085c22128976a648af266750a438410/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a085c22128976a648af266750a438410/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a085c22128976a648af266750a438410/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a085c22128976a648af266750a438410/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a085c22128976a648af266750a438410/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a085c22128976a648af266750a438410/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a085c22128976a648af266750a438410/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a085c22128976a648af266750a438410/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a16ce07724fd643c582fc68f916bd210/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a16ce07724fd643c582fc68f916bd210/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a16ce07724fd643c582fc68f916bd210/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a16ce07724fd643c582fc68f916bd210/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a16ce07724fd643c582fc68f916bd210/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a16ce07724fd643c582fc68f916bd210/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a16ce07724fd643c582fc68f916bd210/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a16ce07724fd643c582fc68f916bd210/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/a16ce07724fd643c582fc68f916bd210/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b1516183e9649424d8f8adc54f1f0824/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b1516183e9649424d8f8adc54f1f0824/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b1516183e9649424d8f8adc54f1f0824/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b1516183e9649424d8f8adc54f1f0824/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b1516183e9649424d8f8adc54f1f0824/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b1516183e9649424d8f8adc54f1f0824/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b1516183e9649424d8f8adc54f1f0824/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b1516183e9649424d8f8adc54f1f0824/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b1516183e9649424d8f8adc54f1f0824/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b4a5fa76fe0a547ee842d7fecb84c442/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b4a5fa76fe0a547ee842d7fecb84c442/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b4a5fa76fe0a547ee842d7fecb84c442/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b4a5fa76fe0a547ee842d7fecb84c442/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b4a5fa76fe0a547ee842d7fecb84c442/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b4a5fa76fe0a547ee842d7fecb84c442/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b4a5fa76fe0a547ee842d7fecb84c442/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b4a5fa76fe0a547ee842d7fecb84c442/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b4a5fa76fe0a547ee842d7fecb84c442/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b51a3e520f9164da198dc59c8acfccd6/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b51a3e520f9164da198dc59c8acfccd6/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b51a3e520f9164da198dc59c8acfccd6/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b51a3e520f9164da198dc59c8acfccd6/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b51a3e520f9164da198dc59c8acfccd6/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b51a3e520f9164da198dc59c8acfccd6/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b51a3e520f9164da198dc59c8acfccd6/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b51a3e520f9164da198dc59c8acfccd6/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b51a3e520f9164da198dc59c8acfccd6/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b6575c13371fd4cbcba0652f2092d1c8/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b6575c13371fd4cbcba0652f2092d1c8/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b6575c13371fd4cbcba0652f2092d1c8/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b6575c13371fd4cbcba0652f2092d1c8/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b6575c13371fd4cbcba0652f2092d1c8/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b6575c13371fd4cbcba0652f2092d1c8/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b6575c13371fd4cbcba0652f2092d1c8/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b6575c13371fd4cbcba0652f2092d1c8/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/b6575c13371fd4cbcba0652f2092d1c8/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/c155d172fdbdea64fbb8a94757a40178/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/c155d172fdbdea64fbb8a94757a40178/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/c155d172fdbdea64fbb8a94757a40178/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/c155d172fdbdea64fbb8a94757a40178/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/c155d172fdbdea64fbb8a94757a40178/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/c155d172fdbdea64fbb8a94757a40178/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/c155d172fdbdea64fbb8a94757a40178/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/c155d172fdbdea64fbb8a94757a40178/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/c155d172fdbdea64fbb8a94757a40178/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ca6f1c3d28a5b4d7fac820172514263f/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ca6f1c3d28a5b4d7fac820172514263f/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ca6f1c3d28a5b4d7fac820172514263f/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ca6f1c3d28a5b4d7fac820172514263f/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ca6f1c3d28a5b4d7fac820172514263f/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ca6f1c3d28a5b4d7fac820172514263f/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ca6f1c3d28a5b4d7fac820172514263f/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ca6f1c3d28a5b4d7fac820172514263f/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ca6f1c3d28a5b4d7fac820172514263f/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/cf1acff8cf98a440dba907e79fd30ebc/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/cf1acff8cf98a440dba907e79fd30ebc/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/cf1acff8cf98a440dba907e79fd30ebc/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/cf1acff8cf98a440dba907e79fd30ebc/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/cf1acff8cf98a440dba907e79fd30ebc/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/cf1acff8cf98a440dba907e79fd30ebc/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/cf1acff8cf98a440dba907e79fd30ebc/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/cf1acff8cf98a440dba907e79fd30ebc/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/cf1acff8cf98a440dba907e79fd30ebc/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d069405eeabab41d886caf864b4de1b5/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d069405eeabab41d886caf864b4de1b5/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d069405eeabab41d886caf864b4de1b5/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d069405eeabab41d886caf864b4de1b5/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d069405eeabab41d886caf864b4de1b5/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d069405eeabab41d886caf864b4de1b5/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d1e7f18868b2549738d2c110db32ca9e/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d1e7f18868b2549738d2c110db32ca9e/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d1e7f18868b2549738d2c110db32ca9e/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d1e7f18868b2549738d2c110db32ca9e/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d1e7f18868b2549738d2c110db32ca9e/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d1e7f18868b2549738d2c110db32ca9e/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d1e7f18868b2549738d2c110db32ca9e/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d1e7f18868b2549738d2c110db32ca9e/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d1e7f18868b2549738d2c110db32ca9e/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d227790a27c5832478192ab42d384c8f/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d227790a27c5832478192ab42d384c8f/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d227790a27c5832478192ab42d384c8f/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d227790a27c5832478192ab42d384c8f/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d227790a27c5832478192ab42d384c8f/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d227790a27c5832478192ab42d384c8f/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d227790a27c5832478192ab42d384c8f/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d227790a27c5832478192ab42d384c8f/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/d227790a27c5832478192ab42d384c8f/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/eba1eb657f48f4f9392622d53a24cbc8/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/eba1eb657f48f4f9392622d53a24cbc8/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/eba1eb657f48f4f9392622d53a24cbc8/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/eba1eb657f48f4f9392622d53a24cbc8/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/eba1eb657f48f4f9392622d53a24cbc8/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/eba1eb657f48f4f9392622d53a24cbc8/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/eba1eb657f48f4f9392622d53a24cbc8/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/eba1eb657f48f4f9392622d53a24cbc8/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/eba1eb657f48f4f9392622d53a24cbc8/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ef9b272ee6f378d4c9e4fc529468ddd4/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ef9b272ee6f378d4c9e4fc529468ddd4/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ef9b272ee6f378d4c9e4fc529468ddd4/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ef9b272ee6f378d4c9e4fc529468ddd4/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ef9b272ee6f378d4c9e4fc529468ddd4/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ef9b272ee6f378d4c9e4fc529468ddd4/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ef9b272ee6f378d4c9e4fc529468ddd4/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ef9b272ee6f378d4c9e4fc529468ddd4/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/ef9b272ee6f378d4c9e4fc529468ddd4/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0cf4af9fdd054139a4387e32efba8fe/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0cf4af9fdd054139a4387e32efba8fe/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0cf4af9fdd054139a4387e32efba8fe/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0cf4af9fdd054139a4387e32efba8fe/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0cf4af9fdd054139a4387e32efba8fe/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0cf4af9fdd054139a4387e32efba8fe/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0eb3fc789dd1a341a1d1f2bda70c1f6/asset
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0eb3fc789dd1a341a1d1f2bda70c1f6/asset
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0eb3fc789dd1a341a1d1f2bda70c1f6/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0eb3fc789dd1a341a1d1f2bda70c1f6/asset.meta
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0eb3fc789dd1a341a1d1f2bda70c1f6/asset.meta
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0eb3fc789dd1a341a1d1f2bda70c1f6/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0eb3fc789dd1a341a1d1f2bda70c1f6/pathname
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0eb3fc789dd1a341a1d1f2bda70c1f6/pathname
+    projectPath: Temp/Export Package/7267986fbfb0245a48841f6ffe471e15/f0eb3fc789dd1a341a1d1f2bda70c1f6/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/importedAudioTempPreview
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/importedAudioTempPreview
+    projectPath: Temp/importedAudioTempPreview
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/tempFile.resS
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/tempFile.resS
+    projectPath: Temp/tempFile.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-166607f90d28f48cfae08419e3c4c29c
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-166607f90d28f48cfae08419e3c4c29c
+    projectPath: Temp/UnityTempFile-166607f90d28f48cfae08419e3c4c29c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1b76c1dfc1ebd4fda88dd607f0044a04
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-1b76c1dfc1ebd4fda88dd607f0044a04
+    projectPath: Temp/UnityTempFile-1b76c1dfc1ebd4fda88dd607f0044a04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1f4fcc9831b0e4d97839d7a0651f7d06
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-1f4fcc9831b0e4d97839d7a0651f7d06
+    projectPath: Temp/UnityTempFile-1f4fcc9831b0e4d97839d7a0651f7d06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-230f31844241b44c881a37361eef735f
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-230f31844241b44c881a37361eef735f
+    projectPath: Temp/UnityTempFile-230f31844241b44c881a37361eef735f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-27262caa3f0a94906953f4eb028c1c96
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-27262caa3f0a94906953f4eb028c1c96
+    projectPath: Temp/UnityTempFile-27262caa3f0a94906953f4eb028c1c96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-38fbb09352dbe44abaf343736af7fc23
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-38fbb09352dbe44abaf343736af7fc23
+    projectPath: Temp/UnityTempFile-38fbb09352dbe44abaf343736af7fc23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-390229d2713fb422e822c9553a3d5741
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-390229d2713fb422e822c9553a3d5741
+    projectPath: Temp/UnityTempFile-390229d2713fb422e822c9553a3d5741
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-721cdc6ddd9744768bf5240e76ba3d1a
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-721cdc6ddd9744768bf5240e76ba3d1a
+    projectPath: Temp/UnityTempFile-721cdc6ddd9744768bf5240e76ba3d1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-862b99c9129c9443eafcebfcdb43143a
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-862b99c9129c9443eafcebfcdb43143a
+    projectPath: Temp/UnityTempFile-862b99c9129c9443eafcebfcdb43143a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-88f20c4bb9ed045a1a634c3aa12621ef
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-88f20c4bb9ed045a1a634c3aa12621ef
+    projectPath: Temp/UnityTempFile-88f20c4bb9ed045a1a634c3aa12621ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9227d39bc063a497595b6fffc807bd26
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-9227d39bc063a497595b6fffc807bd26
+    projectPath: Temp/UnityTempFile-9227d39bc063a497595b6fffc807bd26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9dffb35e7814545fbbb1adb992bcc503
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-9dffb35e7814545fbbb1adb992bcc503
+    projectPath: Temp/UnityTempFile-9dffb35e7814545fbbb1adb992bcc503
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b1dd11306b3024152814a67a53df1da0
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-b1dd11306b3024152814a67a53df1da0
+    projectPath: Temp/UnityTempFile-b1dd11306b3024152814a67a53df1da0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b27afd5647a11478d8cd5e7d826e0505
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-b27afd5647a11478d8cd5e7d826e0505
+    projectPath: Temp/UnityTempFile-b27afd5647a11478d8cd5e7d826e0505
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b70d6a269f0024204b347c9a916b9205
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-b70d6a269f0024204b347c9a916b9205
+    projectPath: Temp/UnityTempFile-b70d6a269f0024204b347c9a916b9205
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c39c41112b51d44adb2fddb0c5bc3f0e
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-c39c41112b51d44adb2fddb0c5bc3f0e
+    projectPath: Temp/UnityTempFile-c39c41112b51d44adb2fddb0c5bc3f0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d3c33409c2a264579bb827c4085754ac
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-d3c33409c2a264579bb827c4085754ac
+    projectPath: Temp/UnityTempFile-d3c33409c2a264579bb827c4085754ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f7cb4bd9b4ff840009f8715195f58b94
+    fullPath: /Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Temp/UnityTempFile-f7cb4bd9b4ff840009f8715195f58b94
+    projectPath: Temp/UnityTempFile-f7cb4bd9b4ff840009f8715195f58b94
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

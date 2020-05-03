@@ -126,7 +126,6 @@
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
-     <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/shanewilson/Documents/GitHub/SecondGloom/Gloom/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
