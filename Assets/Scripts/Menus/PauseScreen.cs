@@ -5,8 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class PauseScreen : MonoBehaviour
 {
-    public GameObject pauseScreenUI; //[SerializeField]
-    public bool isPaused; //[SerializeField]
+    public GameObject pauseScreenUI;
+    public bool isPaused;
 
     void Update()
     {
