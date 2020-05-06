@@ -10,6 +10,19 @@ TagManager:
   - Target
   - Metal
   - ExplosiveBarrel
+  - InvinciblePerk
+  - DegenerateHealth
+  - EnemyMedium
+  - Enemy
+  - EnemyEasy
+  - Fire
+  - Team2
+  - EnemyHard
+  - HealthPerk
+  - MaxHealthPerk
+  - RegeneratePerk
+  - InstantKill
+  - InfiniteAmmo
   layers:
   - Default
   - TransparentFX

@@ -1138,6 +1138,30 @@ public class Weapon : MonoBehaviour
 
         return hitMesh;
     }
+	/*Appended by Daniel: Used for InfiniteAmmoPerk*/
+	public void InfiniteAmmo(bool status) {
+		infiniteAmmo = status;
+	}
+	public bool InfiniteStatus()
+    {
+		return infiniteAmmo;
+    }
+	public void SetPower(float value)
+    {
+		power = value;
+    }
+	public void SetAccuracy(float value)
+	{
+		 accuracy = value;
+	}
+	public float ReturnPower()
+    {
+		return power;
+    }
+	public float ReturnAcc()
+    {
+		return currentAccuracy;
+    }
 }
 
 

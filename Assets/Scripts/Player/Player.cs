@@ -49,7 +49,36 @@ public class Player : MonoBehaviour
 	public GameObject DegenerateBox;
 
 
-	
+	/*NEW ADDITIONS FOR FINAL ITERATION*/
+
+
+	public GameObject my_pistol;
+	Weapon my_pistol_script;
+	public GameObject my_shotgun;
+	Weapon my_shotgun_script;
+	public GameObject my_SMG;
+	Weapon my_SMG_script;
+
+
+	public GameObject my_instantkill;
+	Weapon my_instantkill_script;
+
+
+	public float InfinitePistolDuration;
+	public float InfiniteShotgunDuration;
+	public float InfiniteSMGDuration;
+	public float InstantKillDuration;
+	public float InfinitePistolTimer = 0.0f;
+	public float InfiniteShotgunTimer = 0.0f;
+	public float InfiniteSMGTimer = 0.0f;
+	public float InstantKillTimer = 0.0f;
+	public bool instantKillPerk = false;
+
+	/*FOR TESTING PURPOSES
+	public float currPow;
+	public float currAcc;
+	*/
+
 	void Start()
 	{
 		//We are initializing the Health Bar
@@ -57,9 +86,24 @@ public class Player : MonoBehaviour
 		maxRegenerate = (int)(RegenerationDuration / interpolationPeriod);
 		maxDegenerate = (int)(DegenerationDuration / interpolationPeriod);
 
+
+		/*NEW ADDITIONS FOR FINAL ITERATION*/
+		my_pistol_script = my_pistol.GetComponent<Weapon>();
+		my_shotgun_script = my_shotgun.GetComponent<Weapon>();
+		my_SMG_script = my_SMG.GetComponent<Weapon>();
+		my_instantkill_script = my_instantkill.GetComponent<Weapon>();
+
+		/*FOR TESTING PURPOSES
+		currPow = my_instantkill_script.ReturnPower();
+		currAcc = my_instantkill_script.ReturnAcc();
+		*/
 	}
 	void Update()
 	{
+		/*FOR TESTING PURPOSES
+		currPow = my_insantkill_script.ReturnPower();
+		currAcc = my_instantkill_script.ReturnAcc();
+		*/
 		/*The first if block checks if the Inivincibility Perk was enabled. 
 		 * If so, we start our timer and once it exceeds our time period, we
 		 * disable the Perk effect and reset our timer.*/
@@ -182,6 +226,47 @@ public class Player : MonoBehaviour
 				MaxHealthBox.gameObject.SetActive(true);
 			}
 		}*/
+
+
+
+		/*NEW ADDITIONS FOR FINAL ITERATION*/
+		if (my_pistol_script.InfiniteStatus())
+        {
+			InfinitePistolTimer += Time.deltaTime;
+			if (InfinitePistolTimer > InfinitePistolDuration)
+			{
+				my_pistol_script.InfiniteAmmo(false);
+				InfinitePistolTimer = 0.0f;
+			}
+		}
+		if (my_shotgun_script.InfiniteStatus())
+		{
+			InfiniteShotgunTimer += Time.deltaTime;
+			if (InfiniteShotgunTimer > InfiniteShotgunDuration)
+			{
+				my_shotgun_script.InfiniteAmmo(false);
+				InfiniteShotgunTimer = 0.0f;
+			}
+		}
+		if (my_SMG_script.InfiniteStatus())
+		{
+			InfiniteSMGTimer += Time.deltaTime;
+			if (InfiniteSMGTimer > InfiniteSMGDuration)
+			{
+				my_SMG_script.InfiniteAmmo(false);
+				InfiniteSMGTimer = 0.0f;
+			}
+		}
+		if (instantKillPerk)
+		{
+			InstantKillTimer += Time.deltaTime;
+			if (InstantKillTimer > InstantKillDuration)
+			{
+				instantKillPerk = false;
+				InstantKillTimer = 0.0f;
+			}
+		}
+
 	}
 
 	void OnTriggerEnter(Collider other)
@@ -229,27 +314,25 @@ public class Player : MonoBehaviour
 			healthBar.UpdateMaxHealth(healthSystem.GetHealth());
 		}
 		*/
-	}
-	void OnCollisionEnter(Collision collision)
-    {
 
-		if (collision.gameObject.CompareTag("EnemyEasy") && !invincible.GetInvincibilityStatus())
+
+		/*NEW ADDITIONS FOR FINAL ITERATION*/
+		if (other.gameObject.CompareTag("InfiniteAmmo"))
 		{
-			healthSystem.Damage(20);
-			healthBar.SetHealth(healthSystem.GetHealth());
+			other.gameObject.SetActive(false);
+			my_pistol_script.InfiniteAmmo(true);
+			my_shotgun_script.InfiniteAmmo(true);
+			my_SMG_script.InfiniteAmmo(true);
 		}
-		if (collision.gameObject.CompareTag("EnemyMedium") && !invincible.GetInvincibilityStatus())
+		if (other.gameObject.CompareTag("InstantKill"))
 		{
-			healthSystem.Damage(30);
-			healthBar.SetHealth(healthSystem.GetHealth());
-		}
-		if (collision.gameObject.CompareTag("EnemyHard") && !invincible.GetInvincibilityStatus())
-		{
-			healthSystem.Damage(50);
-			healthBar.SetHealth(healthSystem.GetHealth());
+			other.gameObject.SetActive(false);
+			instantKillPerk = true;
+			my_instantkill_script.SetPower(10000000.0f);
+			my_instantkill_script.SetAccuracy(101.0f);
 		}
 	}
-
+	
     // Appended by Dennis for use with pre-existing enemy model
     public void EnemyDamage(int damage)
     {
