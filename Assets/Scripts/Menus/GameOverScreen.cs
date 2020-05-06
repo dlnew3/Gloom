@@ -10,8 +10,8 @@ public class GameOverScreen : MonoBehaviour
 
     public void RetryGame()
     {
-        StartCoroutine(LoadLevel(1));
-        //SceneManager.LoadScene("Iteration 3");
+        //StartCoroutine(LoadLevel(1));
+        SceneManager.LoadScene("Iteration 4");
     }
 
     public void GoToMainMenu()

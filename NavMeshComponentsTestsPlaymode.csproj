@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4E3C42B4-AE85-E934-44EA-FC7C48973B42}</ProjectGuid>
+    <ProjectGuid>{40ED12B9-883E-5EF4-9091-36931E41F13D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>NavMeshComponentsTestsPlaymode</AssemblyName>
@@ -69,16 +69,16 @@
     <Compile Include="Assets\Tests\NavMeshSurfaceTests.cs" />
     <None Include="Assets\Tests\NavMeshComponentsTestsPlaymode.asmdef" />
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -258,7 +258,7 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -608,7 +608,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="NavMeshComponents.csproj">
-      <Project>{69701AD2-8BEA-09A2-09E8-710644968321}</Project>
+      <Project>{A35714FB-DBF2-120C-1CB5-06361008E0C7}</Project>
       <Name>NavMeshComponents</Name>
     </ProjectReference>
   </ItemGroup>

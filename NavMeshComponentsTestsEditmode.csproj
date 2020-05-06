@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B49D0079-F079-B3A9-93DF-479F6E165C0B}</ProjectGuid>
+    <ProjectGuid>{25FDD7BC-6E32-852B-9B53-9518F1AB3CBD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>NavMeshComponentsTestsEditmode</AssemblyName>
@@ -69,16 +69,16 @@
     <Compile Include="Assets\Tests\Editor\PrefabStageAutoSavingUtil.cs" />
     <None Include="Assets\Tests\Editor\NavMeshComponentsTestsEditmode.asmdef" />
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -270,7 +270,7 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -629,11 +629,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="NavMeshComponents.csproj">
-      <Project>{69701AD2-8BEA-09A2-09E8-710644968321}</Project>
+      <Project>{A35714FB-DBF2-120C-1CB5-06361008E0C7}</Project>
       <Name>NavMeshComponents</Name>
     </ProjectReference>
     <ProjectReference Include="NavMeshComponentsEditor.csproj">
-      <Project>{72CB4E38-FEE9-8E5F-47CF-8025247426DA}</Project>
+      <Project>{2D1346E8-BD71-A102-4955-1DD976AC848E}</Project>
       <Name>NavMeshComponentsEditor</Name>
     </ProjectReference>
   </ItemGroup>

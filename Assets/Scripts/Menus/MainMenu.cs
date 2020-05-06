@@ -12,8 +12,8 @@ public class MainMenu : MonoBehaviour
 
     public void PlayGame()
     {
-        StartCoroutine(LoadLevel(1));
-        //SceneManager.LoadScene("Iteration 3");
+        //StartCoroutine(LoadLevel(1));
+        SceneManager.LoadScene("Iteration 4");
     }
 
     public void GoToSettingsMenu()

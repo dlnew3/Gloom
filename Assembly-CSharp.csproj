@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{111A3CC4-4FC7-3323-4C21-AA6F751CD694}</ProjectGuid>
+    <ProjectGuid>{6FC249CC-C752-0027-5C39-3DA17B4258E8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -78,16 +78,27 @@
     <Compile Include="Assets\Easy Weapons\Scripts\TimedObjectDestroyer.cs" />
     <Compile Include="Assets\Easy Weapons\Scripts\Weapon.cs" />
     <Compile Include="Assets\Easy Weapons\Scripts\WeaponSystem.cs" />
-    <Compile Include="Assets\LevelLoader.cs" />
+    <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Demo_Scene_Components\Scripts\DebrisScript.cs" />
+    <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Demo_Scene_Components\Scripts\ExplosiveBarrelScript.cs" />
+    <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Demo_Scene_Components\Scripts\TargetScript.cs" />
+    <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Scripts\Bullet\BulletScript.cs" />
+    <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Scripts\Casings_&amp;_Projectiles\CasingScript.cs" />
+    <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Scripts\Casings_&amp;_Projectiles\GrenadeScript.cs" />
+    <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Scripts\Explosions_&amp;_Impacts\ExplosionScript.cs" />
+    <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Scripts\Explosions_&amp;_Impacts\ImpactScript.cs" />
+    <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Scripts\FPSController\FpsControllerLPFP.cs" />
+    <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Scripts\Misc\LookAtCamera.cs" />
+    <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Scripts\Weapon_Scripts\AutomaticGunScriptLPFP.cs" />
+    <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Scripts\Weapon_Scripts\HandgunScriptLPFP.cs" />
     <Compile Include="Assets\PSD Logo Templates\Sample\IconPreview.cs" />
     <Compile Include="Assets\Scripts\CameraControl.cs" />
     <Compile Include="Assets\Scripts\EnemyAI.cs" />
     <Compile Include="Assets\Scripts\EnemyAI\EnemyController.cs" />
-    <Compile Include="Assets\Scripts\EnemyAI\Instan_Teleporter.cs" />
     <Compile Include="Assets\Scripts\EnemyAI\Target.cs" />
     <Compile Include="Assets\Scripts\Health\HealthBar.cs" />
     <Compile Include="Assets\Scripts\Health\HealthSystem.cs" />
     <Compile Include="Assets\Scripts\Maze\LevelGenerator.cs" />
+    <Compile Include="Assets\Scripts\Maze\LevelManager.cs" />
     <Compile Include="Assets\Scripts\Maze\Manager.cs" />
     <Compile Include="Assets\Scripts\Maze\MazeCell.cs" />
     <Compile Include="Assets\Scripts\Maze\MazeCellEdge.cs" />
@@ -95,75 +106,82 @@
     <Compile Include="Assets\Scripts\Maze\MazePassage.cs" />
     <Compile Include="Assets\Scripts\Maze\MazeWall.cs" />
     <Compile Include="Assets\Scripts\Menus\GameOverScreen.cs" />
+    <Compile Include="Assets\Scripts\Menus\LevelLoader.cs" />
     <Compile Include="Assets\Scripts\Menus\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\Menus\PauseScreen.cs" />
+    <Compile Include="Assets\Scripts\Menus\PauseScreenEnabler.cs" />
+    <Compile Include="Assets\Scripts\Menus\cursorrelease.cs" />
     <Compile Include="Assets\Scripts\PickUp_Invincibility.cs" />
     <Compile Include="Assets\Scripts\Pickups\Rotator.cs" />
     <Compile Include="Assets\Scripts\Player\Player.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerManager.cs" />
     <Compile Include="Assets\Scripts\PlayerSpeed.cs" />
+    <Compile Include="Assets\Scripts\Score\DisplayHighScore.cs" />
+    <Compile Include="Assets\Scripts\Score\ScoreManager.cs" />
+    <Compile Include="Assets\Scripts\Score\ScoreUpdate.cs" />
     <Compile Include="Assets\Scripts\Teleport\Teleport.cs" />
-    <Compile Include="Assets\cursorrelease.cs" />
+    <Compile Include="Assets\Scripts\Teleport\TeleportLocationSet.cs" />
     <None Include="Assets\PSD Logo Templates\Fonts\Passion_One\OFL.txt" />
     <None Include="Assets\Easy Weapons\Readme.txt" />
     <None Include="Assets\PSD Logo Templates\Fonts\Lilita_One\OFL.txt" />
     <None Include="Assets\PSD Logo Templates\Fonts\Changa_One\OFL.txt" />
     <None Include="Assets\PSD Logo Templates\Fonts\Baloo\OFL.txt" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -343,13 +361,13 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -708,23 +726,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{57D717FB-859D-08B7-0A06-BEB69CC6AB26}</Project>
+      <Project>{B3ABAC0D-F740-2AE5-6058-D0A7E1832B12}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="NavMeshComponentsExamplesEditor.csproj">
-      <Project>{945BAD50-EF60-F566-708F-EDA1622D778C}</Project>
+      <Project>{28E02D92-7031-B3B3-2E09-545CA98E93C1}</Project>
       <Name>NavMeshComponentsExamplesEditor</Name>
     </ProjectReference>
     <ProjectReference Include="NavMeshComponentsEditor.csproj">
-      <Project>{72CB4E38-FEE9-8E5F-47CF-8025247426DA}</Project>
+      <Project>{2D1346E8-BD71-A102-4955-1DD976AC848E}</Project>
       <Name>NavMeshComponentsEditor</Name>
     </ProjectReference>
     <ProjectReference Include="NavMeshComponents.csproj">
-      <Project>{69701AD2-8BEA-09A2-09E8-710644968321}</Project>
+      <Project>{A35714FB-DBF2-120C-1CB5-06361008E0C7}</Project>
       <Name>NavMeshComponents</Name>
     </ProjectReference>
     <ProjectReference Include="NavMeshComponentsExamples.csproj">
-      <Project>{87E622EC-1808-E59C-AC3D-7D7AB2ACEBD5}</Project>
+      <Project>{F4B995C9-555F-7573-EE43-0C906A5D2116}</Project>
       <Name>NavMeshComponentsExamples</Name>
     </ProjectReference>
   </ItemGroup>

@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2020-05-05T21:19:05.584-07:00
+  initializedAtString: 2020-05-05T21:19:05.573-07:00
+  localBranches:
+  - name: Daniel
+    tracking: 
+  - name: Dennis
+    tracking: origin/Dennis
+  - name: master
+    tracking: origin/master
+  - name: Mina
+    tracking: origin/Mina
+  remoteBranches:
+  - name: origin/Daniel
+    tracking: '[None]'
+  - name: origin/Dennis
+    tracking: '[None]'
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
+    tracking: '[None]'
+  - name: origin/Mina
+    tracking: '[None]'
+  - name: origin/Muath
+    tracking: '[None]'
+  - name: origin/Shalom
+    tracking: '[None]'
+  - name: origin/Shane
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/dlnew3/Gloom.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - Daniel
+    - Dennis
+    - master
+    - Mina
+    values:
+    - name: Daniel
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: Dennis
+      remote:
+        name: origin
+        url: https://github.com/dlnew3/Gloom.git
+      trackingBranch: Dennis
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/dlnew3/Gloom.git
+      trackingBranch: master
+    - name: Mina
+      remote:
+        name: origin
+        url: https://github.com/dlnew3/Gloom.git
+      trackingBranch: Mina
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - Daniel
+      - Dennis
+      - HEAD
+      - master
+      - Mina
+      - Muath
+      - Shalom
+      - Shane
+    subKeyValues:
+    - Values:
+      - name: Daniel
+        remote:
+          name: origin
+          url: https://github.com/dlnew3/Gloom.git
+        trackingBranch: 
+      - name: Dennis
+        remote:
+          name: origin
+          url: https://github.com/dlnew3/Gloom.git
+        trackingBranch: 
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/dlnew3/Gloom.git
+        trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/dlnew3/Gloom.git
+        trackingBranch: 
+      - name: Mina
+        remote:
+          name: origin
+          url: https://github.com/dlnew3/Gloom.git
+        trackingBranch: 
+      - name: Muath
+        remote:
+          name: origin
+          url: https://github.com/dlnew3/Gloom.git
+        trackingBranch: 
+      - name: Shalom
+        remote:
+          name: origin
+          url: https://github.com/dlnew3/Gloom.git
+        trackingBranch: 
+      - name: Shane
+        remote:
+          name: origin
+          url: https://github.com/dlnew3/Gloom.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/dlnew3/Gloom.git

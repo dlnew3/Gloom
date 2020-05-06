@@ -295,3 +295,6 @@ MonoBehaviour:
   hitEffectTime: 0.3
   flashColor: {r: 1, g: 0, b: 0, a: 1}
   renderer: {fileID: 5051304921861143957}
+  enemy: {fileID: 5051304922874383688}
+  damagePoints: 20
+  killPoints: 100
