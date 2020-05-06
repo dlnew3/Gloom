@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{945BAD50-EF60-F566-708F-EDA1622D778C}</ProjectGuid>
+    <ProjectGuid>{28E02D92-7031-B3B3-2E09-545CA98E93C1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>NavMeshComponentsExamplesEditor</AssemblyName>
@@ -65,16 +65,16 @@
     <Compile Include="Assets\Examples\Editor\NavMeshPrefabInstanceEditor.cs" />
     <None Include="Assets\Examples\Editor\NavMeshComponentsExamplesEditor.asmdef" />
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -266,37 +266,37 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Api.45">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Logging">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Unity.45">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.UnityShim">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
     </Reference>
     <Reference Include="sfw.net">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/Dennis Newman/Documents/GitHub/Gloom-Demo-3/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -655,7 +655,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="NavMeshComponentsExamples.csproj">
-      <Project>{87E622EC-1808-E59C-AC3D-7D7AB2ACEBD5}</Project>
+      <Project>{F4B995C9-555F-7573-EE43-0C906A5D2116}</Project>
       <Name>NavMeshComponentsExamples</Name>
     </ProjectReference>
   </ItemGroup>
